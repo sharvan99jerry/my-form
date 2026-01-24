@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="sharvan" content="width=device-width, initial-scale=1.0">
-    <title> Emvironment </title>
+    <title> Environment </title>
 </head>
 <body>
       
