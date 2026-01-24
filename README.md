@@ -1,1 +1,84 @@
-# my-form
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="sharvan" content="width=device-width, initial-scale=1.0">
+    <title> Emvironment </title>
+</head>
+<body>
+      
+   <marquee behavior=" "direction="top"> Gamified Environmental Education Platform for School </marquee>     
+<hr/>
+    <h3> Fill this form for Environment Quiz</h3>
+
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkTomt_PXCKR-TT-cpXhV47xEADgWpJauMSQ&s" height="50"/>
+        <form action=" /action.php">
+
+    <link rel="stylesheet" href="style.css">
+
+             <h5> Type your name here  </h5>    
+                <input type=" text"   placeholder=" name">
+                
+            <h5>  Type your father's name</h5>
+                <input type=" text"   placeholder=" Father's name ">
+                <h5> Type your mother's name</h5>
+                <input type="text"  placeholder=" mother's name">
+            
+                 <h5>Type your contact number</h5>
+                 <input type=" number" placeholder=" Contact number ">
+                 ,
+                 <h5>Type your Address </h5>
+                 <input type="text" placeholder=" Address">
+               <hr/>  
+
+               <h4>Select Your class</h4>
+                 
+                 <label for="109">
+                  <input type="radio" value=" 3th" name="class" id="109" > 3th
+                 </label>                 
+                  <br>
+
+                   <label for="110">
+                  <input type="radio" value=" 4th" name="class" id="110" > 4th
+                 </label>                
+                  <br>
+
+                   <label for="111">
+                  <input type="radio" value="5th " name="class" id="111" > 5th
+                 </label>                
+                  <br>
+
+                   <label for="112">
+                  <input type="radio" value=" 6th " name="class" id="112" > 6th
+                 </label>                
+                  <br>
+
+                   <label for="113">
+                  <input type="radio" value=" 7th" name="class" id="113" > 7th
+                 </label>                
+                  <br>
+
+                   <label for="114">
+                     <input type="radio" value=" 8th" name="class" id="114" > 8th
+                 </label>                               
+
+                          <hr/>                      
+               <h4> Select your city</h4> 
+                 <select name="city">
+                    <option value="muzaffarnagar">Muzaffarnagar</option>                   
+                    <option value=" meerut"> Meerut</option>
+                    <option value=" sharanpur"> Sharanpur</option>
+                    <option value=" shamli">Shamli</option>
+                    <option value=" kolkata"> kolkata</option>
+                    <option value=" roorke"> Roorke</option>
+                    <option value="delhi"> Delhi</option>
+                    <option value=" dheradun"> Dheradun</option>
+                 </select>
+                 <br><br>
+                 <input type="submit" value="Submit">
+            <hr/>
+
+</form>
+</body>
+</html>
+<script src="script.js"></script>
