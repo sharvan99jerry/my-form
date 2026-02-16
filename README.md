@@ -26,7 +26,7 @@
             
                  <h5>Type your contact number</h5>
                  <input type=" number" placeholder=" Contact number ">
-                 ,
+                 
                  <h5>Type your Address </h5>
                  <input type="text" placeholder=" Address">
                <hr/>  
