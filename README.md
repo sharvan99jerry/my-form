@@ -67,11 +67,11 @@
                  <select name="city">
                     <option value="muzaffarnagar">Muzaffarnagar</option>                   
                     <option value=" meerut"> Meerut</option>
-                    <option value=" sharanpur"> Sharanpur</option>
-                    <option value=" shamli">Shamli</option>
+                    <option value=" Sharanpur"> Sharanpur</option>
+                    <option value=" Shamli">Shamli</option>
                     <option value=" kolkata"> kolkata</option>
                     <option value=" roorke"> Roorke</option>
-                    <option value="delhi"> Delhi</option>
+                    <option value=" delhi"> Delhi</option>
                     <option value=" dheradun"> Dheradun</option>
                  </select>
                  <br><br>
